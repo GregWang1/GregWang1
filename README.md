@@ -1,4 +1,4 @@
-### Welcome to Jianxun Wang's Github Projects Page 👋
+### Welcome to Jianxun Wang's Github Projects 👋
 
 
 **GregWang1/GregWang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
