@@ -1,4 +1,6 @@
-### Welcome to Jianxun Wang's Github Projects 👋
+Data scientist specializing in data processing, data science, and bioinformatics
+using R, Python, Linux, and SQL, 
+
 
 
 **GregWang1/GregWang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
